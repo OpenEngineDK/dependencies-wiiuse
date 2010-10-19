@@ -1,0 +1,7 @@
+# wiiuse dependencies
+
+darcs /externals/wiiuse		http://openengine.dk/code/externals/wiiuse
+
+darcs-dev /externals/wiiuse 	fh.daimi.au.dk:/users/cgd/code/externals/wiiuse
+
+any /externals/wiiuse 		http://www.openengine.dk/data/externals/wiiuse_v0.12_src.tar.gz
