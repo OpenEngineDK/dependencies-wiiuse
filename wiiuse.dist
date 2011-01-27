@@ -2,6 +2,7 @@
 
 darcs /dependencies/wiiuse		http://openengine.dk/code/dependencies/wiiuse
 
-darcs-dev /dependencies/wiiuse 	fh.daimi.au.dk:/users/cgd/code/dependencies/wiiuse
+darcs-dev /dependencies/wiiuse 		fh.daimi.au.dk:/users/cgd/code/dependencies/wiiuse
 
-any /dependencies/wiiuse 		http://www.openengine.dk/data/dependencies/wiiuse_v0.12_src.tar.gz
+win32 /dependencies/wiiuse 		http://www.openengine.dk/data/dependencies/wiiuse_v0.12_src.tar.gz
+linux /dependencies/wiiuse 		http://www.openengine.dk/data/dependencies/wiiuse_v0.12_src.tar.gz
